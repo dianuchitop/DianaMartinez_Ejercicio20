@@ -17,4 +17,6 @@ class Complejo():
             no = (re**2 + im**2)**(1/2)
             return no
         
-         def pow():
+         def pow(self,im,r):
+            pow =  im**p
+            return pow
