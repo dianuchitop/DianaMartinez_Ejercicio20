@@ -3,7 +3,10 @@ import complejo
 import math
 
 class Complejo
-   #def_init_
+   def__init__
+   self.imaginario =
+   self.real = 
+   self.norma = 
    
 #self imaginario
 #self real
